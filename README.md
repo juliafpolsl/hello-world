@@ -1,2 +1,3 @@
 # hello-world
-Just another repository 
+Cześć, jestem Julia.
+Studiuję Analitykę Biznesową na Politechnice Śląskiej.
